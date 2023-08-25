@@ -11,6 +11,7 @@
 - [Настройка](#настройка)
     - [Windows Server](#windows-server-1)
     - [Windows 10](#windows-10-1)
+- [Завершение](#завершение)
 
 
 
