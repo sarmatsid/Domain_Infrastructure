@@ -275,6 +275,19 @@ ether6-LAN
 
 ![m_firewall](images/microtik_firewall_2.png)
 
+
+Настроим временный DHCP на микротике. Перейдём во вкладку ip pool и настроим пул раздаваемых адресов.
+
+![m_pool](images/microtik_ip_pool.png)
+
+Перейдём в настройки `DHCP Server`, во вкладку `Networks` и настроим парраметры сети.
+
+![m_dhcp_networks](images/microtik_dhcp_server.png)
+
+Теперь перейдём во вкладку `DHCP` и настроим `DHCP` сервер. 
+
+![m_dhcp_server](images/microtik_setup_dhcp_server.png)
+
 Всё, на этом настройка microtik закончена
 
 
